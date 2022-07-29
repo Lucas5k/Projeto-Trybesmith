@@ -1,6 +1,6 @@
 import connection from '../models/connection';
 import User from '../interfaces/user.interface';
-import jwtCreate from './jwtService';
+import jwtCreate from './jwtServices';
 import UserModel from '../models/user.models';
 
 class UserService {
