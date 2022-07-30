@@ -11,6 +11,21 @@ class UserController {
 
   public create = async (req: Request, res: Response) => {
     const user = req.body;
+    const isValidNameAndClass = await this.service.isValidDateUsernameAndClasse(user);
+    const isValidClassAndLev = await this.service.isValidDateClasseAndLevel(user);
+    const isValidLevAndPass = await this.service.isValidDateLevelAndPass(user);
+
+    if (isValidNameAndClass?.message) {
+      return res.status(isValidNameAndClass.code).json({ message: isValidNameAndClass.message });
+    }
+
+    if (isValidClassAndLev?.message) {
+      return res.status(isValidClassAndLev.code).json({ message: isValidClassAndLev.message });
+    }
+
+    if (isValidLevAndPass?.message) {
+      return res.status(isValidLevAndPass.code).json({ message: isValidLevAndPass.message });
+    }
 
     const result = await this.service.create(user);
 
