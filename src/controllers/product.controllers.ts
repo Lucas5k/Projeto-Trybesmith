@@ -12,6 +12,17 @@ class ProductController {
   public create = async (req: Request, res: Response) => {
     const product = req.body;
 
+    const isValidName = await this.service.isValidDateName(product);
+    const isValidAmount = await this.service.isValidDateAmount(product);
+
+    if (isValidName?.message) {
+      return res.status(isValidName.code).json({ message: isValidName.message });
+    }
+
+    if (isValidAmount?.message) {
+      return res.status(isValidAmount.code).json({ message: isValidAmount.message });
+    }
+
     const createProducts = await this.service.create(product);
 
     return res.status(StatusCodes.CREATED).json(createProducts);
