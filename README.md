@@ -23,10 +23,10 @@ E por último e não menos importante usei o JWT para gerar Tokens a partir de i
 Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:
 ```
 - Clone o repositório
-git clone git@github.com:Lucas5k/Projeto-Blogs-API.git
+git clone git@github.com:Lucas5k/Projeto-Trybesmith.git
 
 - Entre no arquivo do projeto
-cd Projeto-Blogs-API
+cd Projeto-Trybesmith
 
 - Instale as dependências
 npm install
