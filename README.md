@@ -35,5 +35,8 @@ npm install
 docker-compose up -d
 
 ```
+## :soon: Implementação futura
+* Refatorar o código, e aplicar meus conhecimentos em SOLID e aplicar no mesmo, pois nesse momento do curso ainda não tinha aprendido sobre principios SOLID.
+* Corrigir alguns Bugs na aplicação.
 
 ## :handshake: Projeto feito individualmente!
