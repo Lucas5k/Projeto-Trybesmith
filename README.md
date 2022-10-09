@@ -10,7 +10,7 @@ E por último e não menos importante usei o JWT para gerar Tokens a partir de i
 * <b>Funcionalidade 1</b>: Desenvolver endpoints que estarão conectados ao banco de dados seguindo os princípios do REST;
 * <b>Funcionalidade 2</b>: Typescript para criar as Camadas MSC (Model, Service, Controller);
 * <b>Funcionalidade 3</b>: Utilizar o JWT para gerar tokens;
-* <b>Funcionalidade 3</b>: Desenvolver o CRUD (Pesquisar, Cadastrar, Editar e Remover);
+* <b>Funcionalidade 4</b>: Desenvolver o CRUD (Pesquisar, Cadastrar, Editar e Remover);
 
 
 ## :wrench: Tecnologias utilizadas
