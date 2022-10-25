@@ -1,7 +1,7 @@
 # Projeto-Trybesmith
 
 ## :memo: Descrição
-Oitavo projeto no modúlo de back-end, Nesse projeto desenvolvi uma Api e um banco de dados.
+Oitavo projeto no módulo de back-end, Nesse projeto desenvolvi uma Api e um banco de dados.
 Usei conhecimentos aprendidos sobre camadas de serviço MSC (Model, Service e Controller) arquitetura Rest e Restful. Conhecimentos em Typescript e a partir disso, é possível criar e alterar tabelas, realizar consultas, inserir e extrair dados do banco usando o CRUD.
 E por último e não menos importante usei o JWT para gerar Tokens a partir de informações como login e senha;
 
