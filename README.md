@@ -19,6 +19,7 @@ E por último e não menos importante usei o JWT para gerar Tokens a partir de i
 - Camadas MSC
 - Mysql
 - Node.js/Express
+- Docker
 
 ## :rocket: Rodando o projeto
 Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:
