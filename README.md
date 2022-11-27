@@ -7,13 +7,13 @@ E por último e não menos importante usei o JWT para gerar Tokens a partir de i
 
 
 ## :books: Funcionalidades
-* <b>Funcionalidade 1</b>: Desenvolver endpoints que estarão conectados ao banco de dados seguindo os princípios do REST;
-* <b>Funcionalidade 2</b>: Typescript para criar as Camadas MSC (Model, Service, Controller);
-* <b>Funcionalidade 3</b>: Utilizar o JWT para gerar tokens;
-* <b>Funcionalidade 4</b>: Desenvolver o CRUD (Pesquisar, Cadastrar, Editar e Remover);
+<ol><b>Funcionalidade 1</b>: Desenvolver endpoints que estarão conectados ao banco de dados seguindo os princípios do REST;</ol>
+<ol><b>Funcionalidade 2</b>: Typescript para criar as Camadas MSC (Model, Service, Controller);</ol>
+<ol><b>Funcionalidade 3</b>: Utilizar o JWT para gerar tokens;</ol>
+<ol><b>Funcionalidade 4</b>: Desenvolver o CRUD (Pesquisar, Cadastrar, Editar e Remover);</ol>
 
 
-## :wrench: <h3>Tecnologias utilizadas</h3>
+## <h3>:wrench: Tecnologias utilizadas</h3>
 - Typescript
 - JWT
 - Camadas MSC
