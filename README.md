@@ -1,7 +1,7 @@
 # Projeto-Trybesmith
 
 ## :memo: Descrição
-Oitavo projeto no módulo de back-end, Nesse projeto desenvolvi uma Api e um banco de dados(Usando Mysql).
+Oitavo projeto no módulo de back-end, Nesse projeto, eu criei uma loja de itens medievais, no formato de uma API, utilizando Typescript com mysql.
 Usei conhecimentos aprendidos sobre camadas de serviço MSC (Model, Service e Controller) arquitetura Rest. Conhecimentos em Typescript e a partir disso, é possível criar e alterar tabelas, realizar consultas, inserir e extrair dados do banco usando o CRUD.
 E por último e não menos importante usei o JWT para gerar Tokens a partir de informações como login e senha;
 
