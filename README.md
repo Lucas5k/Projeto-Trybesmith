@@ -13,7 +13,7 @@ E por último e não menos importante usei o JWT para gerar Tokens a partir de i
 * <b>Funcionalidade 4</b>: Desenvolver o CRUD (Pesquisar, Cadastrar, Editar e Remover);
 
 
-## :wrench: Tecnologias utilizadas
+## :wrench: <h3>Tecnologias utilizadas</h3>
 - Typescript
 - JWT
 - Camadas MSC
