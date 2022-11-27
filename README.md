@@ -38,7 +38,7 @@ docker-compose up -d
 
 ```
 ## :soon: Implementação futura
-* Refatorar o código, e aplicar meus conhecimentos em SOLID e aplicar no mesmo, pois nesse momento do curso ainda não tinha aprendido sobre principios SOLID.
-* Corrigir alguns Bugs na aplicação.
+<ol>Refatorar o código, e aplicar meus conhecimentos em SOLID e aplicar no mesmo, pois nesse momento do curso ainda não tinha aprendido sobre principios SOLID.</ol>
+<ol>Corrigir alguns Bugs na aplicação.</ol>
 
 ## :handshake: Projeto feito individualmente!
